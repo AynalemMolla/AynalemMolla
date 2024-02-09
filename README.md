@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Tableau and R
 - 💞️ I’m looking to collaborate on R
 - 📫 How to reach me aynalemabebem@gmail.com
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 
 
 <!---
